@@ -20,4 +20,7 @@ const LOCATIONS = {
     'bar-sport': {
         name: 'Bar Sport',
         emoji: '⚽',
-        promoText: 'Benvenuto al Bar Sport! Il luogo ideale per vedere le partite in compag
+        promoText: 'Benvenuto al Bar Sport! Il luogo ideale per vedere le partite in compa',
+        discount: '📚 10% Libri + Caffè Gratis'
+    }
+};
